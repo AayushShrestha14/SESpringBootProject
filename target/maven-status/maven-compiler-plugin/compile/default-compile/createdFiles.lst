@@ -1,0 +1,4 @@
+com\aayush\springapp\controller\DefaultController.class
+com\aayush\springapp\AppInitializer.class
+com\aayush\springapp\controller\HelloController.class
+com\aayush\springapp\entity\Skill.class
